@@ -1,0 +1,64 @@
+[+] Displaying score (top 300)
++-----+----+-------------------------------+----------+------------+------+
+| Pos | ID | TeamName                      | Location |    Cash    | Flag |
++-----+----+-------------------------------+----------+------------+------+
+|  1  | 29 | HackUnPeu                     |   None   | 35400.00 $ | 8350 |
+|  2  | 4  | ...la_biere_est_trop_chere... |   None   | 60650.00 $ | 6470 |
+|  3  | 16 | CrunchyCroquant               |   None   | 19450.00 $ | 5935 |
+|  4  | 5  | (   -̥᷄◞ω◟-̥᷅ )                   |   None   | 36150.00 $ | 5150 |
+|  5  | 38 | LES FLAGS ICI SONT LOUD       |   None   | 4150.00 $  | 4985 |
+|  6  | 27 | HACKPANTOUTE-1                |   None   | 40050.00 $ | 4540 |
+|  7  | 28 | HACKPANTOUTE-2                |   None   | 36350.00 $ | 3890 |
+|  8  | 6  | 0-bae                         |   None   | 36600.00 $ | 3560 |
+|  9  | 9  | AGEEI-UQAM-2                  |   None   | 12550.00 $ | 3245 |
+|  10 | 21 | GIRLZ                         |   None   | 6750.00 $  | 3175 |
+|  11 | 32 | It was China                  |   None   | 26050.00 $ | 3105 |
+|  12 | 36 | On ÉTS pas chaud              |   None   | 8050.00 $  | 2950 |
+|  13 | 26 | Hackable Team                 |   None   | 18600.00 $ | 2805 |
+|  14 | 22 | Gliderous Tigers              |   None   | 11600.00 $ | 2355 |
+|  15 | 37 | N00b4lyfe                     |   None   | 1300.00 $  | 2280 |
+|  16 | 50 | Spy vs Cat5                   |   None   | 6500.00 $  | 2250 |
+|  17 | 46 | P1080FPS_OP                   |   None   | 4600.00 $  | 1960 |
+|  18 | 3  | ...et_le_gin_aussi...         |   None   | 5600.00 $  | 1820 |
+|  19 | 53 | Unicorn as a service          |   None   | 4850.00 $  | 1645 |
+|  20 | 2  | _TMIH_                        |   None   | 17200.00 $ | 1620 |
+|  21 | 47 | PolyHack-1                    |   None   | 14400.00 $ | 1340 |
+|  22 | 24 | GroupsGrepWheel               |   None   | 6550.00 $  | 1155 |
+|  23 | 19 | EPICBANANA                    |   None   | 8450.00 $  | 1105 |
+|  24 | 11 | Belette du nord               |   None   | 9450.00 $  | 990  |
+|  25 | 48 | PolyHack-2                    |   None   | 6550.00 $  | 955  |
+|  26 | 41 | low_privs_high_hopes          |   None   | 9550.00 $  | 945  |
+|  27 | 39 | LesPtitsGarsDeShawi           |   None   | 3200.00 $  | 920  |
+|  28 | 54 | Unicorn as a Software         |   None   | 9150.00 $  | 905  |
+|  29 | 13 | BonziBuddy                    |   None   | 2550.00 $  | 855  |
+|  30 | 35 | HackfÉTS                      |   None   | 8500.00 $  | 840  |
+|  31 | 7  | 4NIM4L5                       |   None   | 1550.00 $  | 755  |
+|  32 | 51 | Team Power                    |   None   | 8350.00 $  | 735  |
+|  33 | 20 | ForkBomb                      |   None   | 8350.00 $  | 735  |
+|  34 | 43 | noTeamNameException           |   None   | 6550.00 $  | 645  |
+|  35 | 17 | dotHack//                     |   None   | 5300.00 $  | 630  |
+|  36 | 33 | Jive-1                        |   None   | 3250.00 $  | 630  |
+|  37 | 8  | AGEEI-UQAM-1                  |   None   | 6150.00 $  | 605  |
+|  38 | 25 | Hack'N'Run                    |   None   | 6550.00 $  | 600  |
+|  39 | 15 | chuki                         |   None   | 6500.00 $  | 550  |
+|  40 | 56 | yellow submarine              |   None   | 3100.00 $  | 525  |
+|  41 | 44 | NSAinside                     |   None   | 3750.00 $  | 520  |
+|  42 | 45 | Objectif_up                   |   None   | 4750.00 $  | 510  |
+|  43 | 23 | Granulaire                    |   None   | 3150.00 $  | 450  |
+|  44 | 55 | usedoils                      |   None   | 5050.00 $  | 405  |
+|  45 | 40 | lorem ipsum                   |   None   | 4700.00 $  | 370  |
+|  46 | 12 | Black Rat                     |   None   | 3350.00 $  | 370  |
+|  47 | 10 | AGEEI-UQAM-3                  |   None   | 4200.00 $  | 320  |
+|  48 | 49 | Raven                         |   None   | 3450.00 $  | 245  |
+|  49 | 30 | Hopeless                      |   None   | 2300.00 $  | 220  |
+|  50 | 18 | Électrochoc                   |   None   | 2100.00 $  | 200  |
+|  51 | 42 | mycatbox                      |   None   | 2250.00 $  | 170  |
+|  52 | 14 | C'est quoi un flag?           |   None   | 2200.00 $  | 120  |
+|  53 | 57 | Team HF Crew                  |   None   | 2000.00 $  | 100  |
+|  54 | 31 | Individual                    |   None   | 1100.00 $  |  10  |
+|  55 | 52 | The Benchwarmers              |   None   | 1000.00 $  |  0   |
+|  56 | 60 | mdube_dev                     |   None   | 1000.00 $  |  0   |
+|  57 | 58 | Team HF VPN                   |   None   | 1000.00 $  |  0   |
+|  58 | 59 | mdube                         |   None   | 1000.00 $  |  0   |
+|  59 | 34 | Jive-2                        |   None   | 1000.00 $  |  0   |
++-----+----+-------------------------------+----------+------------+------+

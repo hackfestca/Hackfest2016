@@ -1,0 +1,61 @@
+| Team "dotHack//" successfully bought item "quaoarpost" on the black market       |    bm    |  notice  | 2016-11-04 17:38:28.875583 |
+| Team "GIRLZ" successfully bought item "signal1" on the black market              |    bm    |  notice  | 2016-11-04 20:11:28.123062 |
+| Team "N00b4lyfe" successfully bought item "quaoarhint" on the black market       |    bm    |  notice  | 2016-11-04 20:22:18.238297 |
+| Team "mycatbox" submitted an item "StargateComplex" on the black market.         |    bm    |  notice  | 2016-11-04 20:24:35.416904 |
+| Team "Gliderous Tigers" successfully bought item "quaoarpost" on the black       |    bm    |  notice  | 2016-11-04 20:29:37.009311 |
+| Team "Spy vs Cat5" successfully bought item "signal1" on the black market        |    bm    |  notice  | 2016-11-04 20:51:03.980139 |
+| Team "Spy vs Cat5" successfully bought item "inj1" on the black market           |    bm    |  notice  | 2016-11-04 22:00:25.185811 |
+| Team "4NIM4L5" successfully bought item "inj10" on the black market              |    bm    |  notice  | 2016-11-04 22:09:09.504466 |
+| Team "Unicorn as a service" successfully bought item "signal1" on the black      |    bm    |  notice  | 2016-11-04 22:33:45.218673 |
+| Team "4NIM4L5" successfully bought item "signal1" on the black market            |    bm    |  notice  | 2016-11-04 22:41:28.457221 |
+| Team "BonziBuddy" successfully bought item "sednapost1" on the black market      |    bm    |  notice  | 2016-11-04 22:47:46.717478 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "sednamail" on the black |    bm    |  notice  | 2016-11-04 22:57:39.196670 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "quaoarhint" on the      |    bm    |  notice  | 2016-11-04 22:58:17.086950 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "sednapost1" on the      |    bm    |  notice  | 2016-11-04 22:58:33.855334 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "sednapost2" on the      |    bm    |  notice  | 2016-11-04 22:58:44.152307 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "quaoarpost" on the      |    bm    |  notice  | 2016-11-04 22:58:57.210910 |
+| Team "On ÉTS pas chaud" successfully bought item "sgservices" on the black       |    bm    |  notice  | 2016-11-04 23:34:17.595845 |
+| Team "On ÉTS pas chaud" successfully bought item "donation" on the black market  |    bm    |  notice  | 2016-11-04 23:40:46.592804 |
+| Team "HackUnPeu" successfully bought item "inj7" on the black market             |    bm    |  notice  | 2016-11-04 23:55:15.634528 |
+| Team "BonziBuddy" successfully bought item "orcuspost1" on the black market      |    bm    |  notice  | 2016-11-04 23:57:37.061766 |
+| Team "NSAinside" successfully bought item "quaoarpost" on the black market       |    bm    |  notice  | 2016-11-05 00:03:38.082034 |
+| Team "LesPtitsGarsDeShawi" successfully bought item "inj1" on the black market   |    bm    |  notice  | 2016-11-05 00:15:59.644702 |
+| Team "LesPtitsGarsDeShawi" successfully bought item "donation" on the black      |    bm    |  notice  | 2016-11-05 00:19:25.192446 |
+| Team "Belette du nord" successfully bought item "quaoartools" on the black       |    bm    |  notice  | 2016-11-05 00:19:58.611745 |
+| Team "HackUnPeu" successfully bought item "signal5" on the black market          |    bm    |  notice  | 2016-11-05 00:26:59.868174 |
+| Team "GIRLZ" successfully bought item "misc1" on the black market                |    bm    |  notice  | 2016-11-05 00:27:18.686097 |
+| Team "GroupsGrepWheel" successfully bought item "quaoartools" on the black       |    bm    |  notice  | 2016-11-05 00:33:56.654808 |
+| Team "GroupsGrepWheel" successfully bought item "inj10" on the black market      |    bm    |  notice  | 2016-11-05 00:35:00.860114 |
+| Team "AGEEI-UQAM-2" successfully bought item "sednamail" on the black market     |    bm    |  notice  | 2016-11-05 00:47:26.434865 |
+| Team "Hackable Team" successfully bought item "misc1" on the black market        |    bm    |  notice  | 2016-11-05 00:49:25.946707 |
+| Team "HackUnPeu" successfully bought item "misc1" on the black market            |    bm    |  notice  | 2016-11-05 01:00:16.462011 |
+| Team "HackUnPeu" successfully bought item "quaoarhint" on the black market       |    bm    |  notice  | 2016-11-05 01:08:58.987141 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "orcusroothint" on the   |    bm    |  notice  | 2016-11-05 01:09:23.708775 |
+| Team "HackUnPeu" successfully bought item "quaoarpost" on the black market       |    bm    |  notice  | 2016-11-05 01:09:51.887578 |
+| Team "P1080FPS_OP" successfully bought item "inj3" on the black market           |    bm    |  notice  | 2016-11-05 01:16:39.347567 |
+| Team "On ÉTS pas chaud" successfully bought item "sgdigests" on the black market |    bm    |  notice  | 2016-11-05 01:18:37.529906 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "orcuspost1" on the      |    bm    |  notice  | 2016-11-05 01:20:09.477637 |
+| Team "LES FLAGS ICI SONT LOUD" successfully bought item "orcuspost2" on the      |    bm    |  notice  | 2016-11-05 01:20:33.566383 |
+| Team "Granulaire" successfully bought item "quaoartools" on the black market     |    bm    |  notice  | 2016-11-05 01:21:09.264603 |
+| Team "PolyHack-2" successfully bought item "donation" on the black market        |    bm    |  notice  | 2016-11-05 01:24:54.287279 |
+| Team "PolyHack-2" successfully bought item "quaoarpost" on the black market      |    bm    |  notice  | 2016-11-05 01:27:07.498031 |
+| Team "Unicorn as a service" successfully bought item "signal3" on the black      |    bm    |  notice  | 2016-11-05 01:29:24.125575 |
+| Team "AGEEI-UQAM-2" successfully bought item "inj1" on the black market          |    bm    |  notice  | 2016-11-05 01:29:50.216228 |
+| Team "HACKPANTOUTE-1" successfully bought item "orcuspost1" on the black market  |    bm    |  notice  | 2016-11-05 01:30:03.407918 |
+| Team "N00b4lyfe" successfully bought item "orcusdbleak" on the black market      |    bm    |  notice  | 2016-11-05 01:30:46.863353 |
+| Team "Unicorn as a service" successfully bought item "quaoartools" on the black  |    bm    |  notice  | 2016-11-05 01:31:28.787070 |
+| Team "(   -̥᷄◞ω◟-̥᷅ )" successfully bought item "inj3" on the black market           |    bm    |  notice  | 2016-11-05 01:32:22.416630 |
+| Team "CrunchyCroquant" successfully bought item "sgcoords" on the black market   |    bm    |  notice  | 2016-11-05 01:34:27.323983 |
+| Team "Spy vs Cat5" successfully bought item "misc1" on the black market          |    bm    |  notice  | 2016-11-05 01:36:29.552790 |
+| Team "GIRLZ" successfully bought item "signal2" on the black market              |    bm    |  notice  | 2016-11-05 01:38:33.252650 |
+| Team "N00b4lyfe" successfully bought item "sgservices" on the black market       |    bm    |  notice  | 2016-11-05 01:40:51.033894 |
+| Team "GIRLZ" successfully bought item "quaoarhint" on the black market           |    bm    |  notice  | 2016-11-05 01:41:00.537251 |
+| Team "HackUnPeu" successfully bought item "donation" on the black market         |    bm    |  notice  | 2016-11-05 01:43:06.025544 |
+| Team "GIRLZ" successfully bought item "inj10" on the black market                |    bm    |  notice  | 2016-11-05 01:43:08.728159 |
+| Team "HACKPANTOUTE-2" successfully bought item "donation" on the black market    |    bm    |  notice  | 2016-11-05 01:44:49.201160 |
+| Team "AGEEI-UQAM-2" successfully bought item "misc1" on the black market         |    bm    |  notice  | 2016-11-05 01:46:43.901679 |
+| Team "Gliderous Tigers" successfully bought item "sednamail" on the black market |    bm    |  notice  | 2016-11-05 01:53:09.931388 |
+| Team "It was China" successfully bought item "quaoarhint" on the black market    |    bm    |  notice  | 2016-11-05 01:56:57.906609 |
+| Team "...la_biere_est_trop_chere..." successfully bought item "quaoartools" on   |    bm    |  notice  | 2016-11-05 01:57:10.491123 |
+| Team "It was China" successfully bought item "quaoartools" on the black market   |    bm    |  notice  | 2016-11-05 01:58:17.570778 |
+| Team "...et_le_gin_aussi..." successfully bought item "misc1" on the black       |    bm    |  notice  | 2016-11-05 01:58:59.857641 |

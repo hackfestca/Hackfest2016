@@ -1,0 +1,65 @@
+[+] Displaying flag progression
++-------------------------------+--------+----------------------------+
+| Team                          | isDone | Submit timestamp           |
++-------------------------------+--------+----------------------------+
+| LES FLAGS ICI SONT LOUD       |  True  | 2016-11-04 16:44:23.533168 |
+| (   -̥᷄◞ω◟-̥᷅ )                   |  True  | 2016-11-04 17:11:43.208776 |
+| 0-bae                         |  True  | 2016-11-04 17:16:08.623791 |
+| ...la_biere_est_trop_chere... |  True  | 2016-11-04 17:18:50.342614 |
+| ForkBomb                      |  True  | 2016-11-04 17:24:08.117042 |
+| PolyHack-1                    |  True  | 2016-11-04 17:25:26.853043 |
+| low_privs_high_hopes          |  True  | 2016-11-04 17:30:09.746078 |
+| HackfÉTS                      |  True  | 2016-11-04 17:42:30.656423 |
+| N00b4lyfe                     |  True  | 2016-11-04 17:44:09.142050 |
+| PolyHack-2                    |  True  | 2016-11-04 17:56:47.583764 |
+| usedoils                      |  True  | 2016-11-04 18:21:34.022566 |
+| BonziBuddy                    |  True  | 2016-11-04 18:52:51.605801 |
+| Belette du nord               |  True  | 2016-11-04 19:49:28.788006 |
+| ...et_le_gin_aussi...         |  True  | 2016-11-04 20:34:19.796145 |
+| Hopeless                      |  True  | 2016-11-04 21:06:35.796664 |
+| Gliderous Tigers              |  True  | 2016-11-04 21:48:10.460139 |
+| AGEEI-UQAM-1                  |  True  | 2016-11-04 21:48:36.930812 |
+| Unicorn as a service          |  True  | 2016-11-04 22:04:24.150181 |
+| chuki                         |  True  | 2016-11-04 22:10:09.757111 |
+| Hackable Team                 |  True  | 2016-11-04 22:11:02.861465 |
+| _TMIH_                        |  True  | 2016-11-04 22:48:07.104313 |
+| EPICBANANA                    |  True  | 2016-11-05 00:14:06.153543 |
+| AGEEI-UQAM-2                  |  True  | 2016-11-05 01:32:15.825376 |
+| 4NIM4L5                       | False  | None                       |
+| AGEEI-UQAM-3                  | False  | None                       |
+| Black Rat                     | False  | None                       |
+| C'est quoi un flag?           | False  | None                       |
+| CrunchyCroquant               | False  | None                       |
+| GIRLZ                         | False  | None                       |
+| Granulaire                    | False  | None                       |
+| GroupsGrepWheel               | False  | None                       |
+| HACKPANTOUTE-1                | False  | None                       |
+| HACKPANTOUTE-2                | False  | None                       |
+| Hack'N'Run                    | False  | None                       |
+| HackUnPeu                     | False  | None                       |
+| Individual                    | False  | None                       |
+| It was China                  | False  | None                       |
+| Jive-1                        | False  | None                       |
+| Jive-2                        | False  | None                       |
+| LesPtitsGarsDeShawi           | False  | None                       |
+| Monitoring                    | False  | None                       |
+| NSAinside                     | False  | None                       |
+| Objectif_up                   | False  | None                       |
+| On ÉTS pas chaud              | False  | None                       |
+| P1080FPS_OP                   | False  | None                       |
+| Raven                         | False  | None                       |
+| Spy vs Cat5                   | False  | None                       |
+| Team HF Crew                  | False  | None                       |
+| Team HF VPN                   | False  | None                       |
+| Team Power                    | False  | None                       |
+| The Benchwarmers              | False  | None                       |
+| Unicorn as a Software         | False  | None                       |
+| dotHack//                     | False  | None                       |
+| lorem ipsum                   | False  | None                       |
+| mdube                         | False  | None                       |
+| mdube_dev                     | False  | None                       |
+| mycatbox                      | False  | None                       |
+| noTeamNameException           | False  | None                       |
+| yellow submarine              | False  | None                       |
+| Électrochoc                   | False  | None                       |
++-------------------------------+--------+----------------------------+
